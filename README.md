@@ -33,18 +33,14 @@ The dataset used in this project is sourced from Kaggle and contains daily stati
 - Basic knowledge of data engineering concepts and cloud computing.
 
 ### Installation and Setup
-1. **Clone this repository**:
-    ```bash
-    git clone https://github.com/yourusername/YouTube-Analysis-Project.git
-    ```
-2. **Set up AWS Resources**:
+1. **Set up AWS Resources**:
    - Create and configure S3 buckets for raw and transformed data.
    - Set up IAM roles with necessary permissions for Glue, Lambda, and other AWS services.
-3. **Data Ingestion**:
+2. **Data Ingestion**:
    - Use AWS Glue or custom scripts to pull data from the source and upload it to S3.
-4. **ETL Process**:
+3. **ETL Process**:
    - Implement transformation scripts using AWS Glue to format raw data.
-5. **Data Analysis and Reporting**:
+4. **Data Analysis and Reporting**:
    - Use AWS Athena to query data stored in S3 and QuickSight to create dashboards.
 
 ### Running the Project

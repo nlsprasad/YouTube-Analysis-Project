@@ -1,4 +1,4 @@
-# YouTube Analysis Project
+# YouTube Analysis
 
 ## Overview
 This project is designed to manage, streamline, and analyze structured and semi-structured YouTube video data based on video categories and trending metrics. The project emphasizes data security, scalability, and effective cloud-based processing.

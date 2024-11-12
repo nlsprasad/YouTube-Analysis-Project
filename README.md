@@ -26,11 +26,6 @@ The dataset used in this project is sourced from Kaggle and contains daily stati
 
 **Link to Dataset**: [YouTube Trending Dataset on Kaggle](https://www.kaggle.com/datasets/datasnaek/youtube-new)
 
-## Architecture
-The following architecture outlines the data flow from ingestion to analysis and reporting. 
-
-![Architecture Diagram](architecture.jpeg)
-
 ## Getting Started
 
 ### Prerequisites
